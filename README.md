@@ -1,6 +1,6 @@
 ### Hey, I'm Martin 👋🏼
 
-A guy from Prague who likes coding and coincidentally currently works at *Google*.
+A guy from Prague who likes coding and coincidentally currently works at *CDN77*.
 
 Everything I make in my free time I put here. Some technologies I use are:
 
